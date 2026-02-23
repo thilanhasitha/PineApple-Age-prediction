@@ -1,0 +1,11 @@
+image_id,age_days,height_cm,num_leaves,growth_stage
+plant_001.jpg,30,15.5,8,seedling
+plant_002.jpg,45,22.0,10,seedling
+plant_003.jpg,60,32.0,12,vegetative
+plant_004.jpg,75,38.5,14,vegetative
+plant_005.jpg,90,45.2,18,vegetative
+plant_006.jpg,120,58.0,22,vegetative
+plant_007.jpg,150,68.5,26,flowering
+plant_008.jpg,180,75.0,30,flowering
+plant_009.jpg,210,80.2,32,fruiting
+plant_010.jpg,240,82.5,34,fruiting
